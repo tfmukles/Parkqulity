@@ -1,0 +1,91 @@
+{
+  "main": [
+    {
+      "name": "our story",
+      "url": "#our-story"
+    },
+    {
+      "name": "how it works",
+      "url": "#how-it-works"
+    },
+    {
+      "name": "why us",
+      "url": "#why-us"
+    },
+    {
+      "name": "Product Demo",
+      "url": "#product-demo"
+    },
+    {
+      "name": "about",
+      "url": "#about"
+    },
+    {
+      "name": "FAQS",
+      "url": "#faqs"
+    }
+  ],
+  "footer": {
+    "left": [
+      {
+        "name": "Home",
+        "url": "#"
+      },
+      {
+        "name": "About Parkquility",
+        "url": "#"
+      }
+    ],
+    "middle": [
+      {
+        "name": "Airport Parking",
+        "url": "#"
+      },
+      {
+        "name": "Corporate ",
+        "url": "#"
+      },
+      {
+        "name": "Parking",
+        "url": "#"
+      },
+      {
+        "name": "Curbside Parking",
+        "url": "#"
+      },
+      {
+        "name": "Hospital Parking",
+        "url": "#"
+      }
+    ],
+    "right": [
+      {
+        "name": "Hotel Parking",
+        "url": "#"
+      },
+      {
+        "name": "Parking Garages",
+        "url": "#"
+      },
+      {
+        "name": "Shopping Mall Parking",
+        "url": "#"
+      },
+      {
+        "name": "University Parking",
+        "url": "#"
+      }
+    ]
+  },
+
+  "footer_bottom": [
+    {
+      "name": "Privacy Policy",
+      "url": "/privacy-policy"
+    },
+    {
+      "name": "Terms",
+      "url": "/terms"
+    }
+  ]
+}
