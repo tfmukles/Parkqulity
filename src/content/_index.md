@@ -6,8 +6,8 @@ banner:
   image: /images/banner.png
 brands:
   lists:
-    - /images/brands/11.png
     - /images/brands/5.png
+    - /images/brands/11.png
     - /images/brands/2.webp
     - /images/brands/3.png
     - /images/brands/6.png
@@ -297,4 +297,5 @@ faq:
       answer: >-
         Some payment methods may support currencies other than what's already
         listed in this article. You may notice that an additional payment method
+draft: false
 ---
