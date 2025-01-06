@@ -161,12 +161,6 @@ why_us:
 opinion:
   title: WHAT THEY ARE SAYING
   lists:
-    - image: /images/operations.png
-      title: NEXTGEN OPERATIONS
-      desc: >-
-        Automated all-in-1 for use-cases like Monthly/Permit Parking,
-        Validations, Valet, etc. through the Parkquility Software brings
-        significant efficiencies
     - image: /images/saving.png
       title: Savings
       desc: >-
@@ -177,6 +171,12 @@ opinion:
       desc: >-
         ~15-18% revenue increase through Advance Discovery & Reservations,
         Dynamic Pricing & Differentiated Pricing and Real-time Enforcement
+    - image: /images/operations.png
+      title: NEXTGEN OPERATIONS
+      desc: >-
+        Automated all-in-1 for use-cases like Monthly/Permit Parking,
+        Validations, Valet, etc. through the Parkquility Software brings
+        significant efficiencies
   brands:
     - /images/brands/1.png
     - /images/brands/2.png
