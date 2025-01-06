@@ -12,9 +12,9 @@ brands:
     - /images/brands/3.png
     - /images/brands/6.png
     - /images/brands/7.png
-    - /images/brands/4.png
     - /images/brands/8.png
     - /images/brands/9.png
+    - /images/brands/4.png
     - /images/brands/10.png
 features:
   title: UPGRADE THIS MONTH TO MODERNIZE YOUR PARKING EXPERIENCES
@@ -40,7 +40,7 @@ features:
         title: >-
           \"We got 3-5x savings and 10% higher revenues within the first quarter
           after upgrading from Flash to Parkquility.\"
-        subtitle: "WHY OPERATORS \U0001F49C US"
+        subtitle: WHY OPERATORS 💜 US
         feature:
           title: WHY CUSTOMERS CHOOSE US
           list:
@@ -53,7 +53,7 @@ features:
       icon: /images/turnleft.svg
       tab_content:
         image: /Christopher.jpeg
-        name: 'Christopher Staley | Miami, FL'
+        name: Christopher Staley | Miami, FL
         title: >-
           \"I hate parking and often take uber. With parkquility, I’m find
           myself driving my car more often.\"
@@ -76,11 +76,8 @@ how_it_works:
     Go live with your smart parking experience in less than 30 days with our
     turn-key solution.
   lists:
-    - title: Install
-      desc: Install smart cameras and signage within hours.
-      image: /images/works/laptop.png
     - title: Customize
-      desc: 'Set dynamic pricing, permits and enforcement.'
+      desc: Set dynamic pricing, permits and enforcement.
       image: /images/works/car.png
     - title: Experience
       desc: Go live with a best-in-class consumer experience.
@@ -88,7 +85,10 @@ how_it_works:
     - title: Control
       desc: Report immediate savings and higher earnings.
       image: /images/works/subscriptions.png
-  iframe_link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-07'
+    - title: Install
+      desc: Install smart cameras and signage within hours.
+      image: /images/works/laptop.png
+  iframe_link: https://calendly.com/supernova-intro/supernova-intro?month=2023-07
   button:
     enable: true
     label: Schedule A Demo Today
@@ -215,7 +215,7 @@ market_values:
   image: /images/map.png
 schedule_meeting:
   title: Managing parking for residential or commercial? Let's talk.
-  iframe_link: 'https://calendly.com/supernova-intro/supernova-intro?month=2023-07'
+  iframe_link: https://calendly.com/supernova-intro/supernova-intro?month=2023-07
   button:
     enable: true
     label: Schedule A Meeting Today
@@ -224,24 +224,24 @@ about:
   profiles_list:
     - image: /images/profiles/1615921548100.jpeg
       name: Abhishek Anand
-      designation: 'Co-founder, CEO'
+      designation: Co-founder, CEO
       location: Miami
       desc: >-
         Co-founder of Affine, AI Consulting company with >400 consultants and
         >$20M in ARR
       social:
         name: Linkedin
-        link: 'https://www.linkedin.com/in/abhishekanand1/'
+        link: https://www.linkedin.com/in/abhishekanand1/
     - image: /images/profiles/Bhagwat Deora.png
       name: Bhagwat Deora
-      designation: 'Co-founder, CTO'
+      designation: Co-founder, CTO
       location: Portland
       desc: >-
         Developed custom Al/MLsolutions for clients at Accenture, Mu Sigma and
         Affine
       social:
         name: Linkedin
-        link: 'https://www.linkedin.com/in/bhagwat-deora/'
+        link: https://www.linkedin.com/in/bhagwat-deora/
     - image: /images/profiles/1632758130076.jpeg
       name: Stephen Smith
       designation: Cro
@@ -251,15 +251,15 @@ about:
         company, NextGen. 20 years of Sales experience
       social:
         name: Linkedin
-        link: 'https://www.linkedin.com/in/stephen-smith-32914945/'
+        link: https://www.linkedin.com/in/stephen-smith-32914945/
     - image: /SK.JPG
       name: Sandeep Koduri
-      designation: 'CO-FOUNDER, COO'
+      designation: CO-FOUNDER, COO
       location: Bengaluru
       desc: ABCDEFFG
       social:
         name: LinkedIn
-        link: 'https://www.linkedin.com/in/sandeep-koduri/'
+        link: https://www.linkedin.com/in/sandeep-koduri/
 backed_by:
   title: 'BACKED BY:'
   images:
