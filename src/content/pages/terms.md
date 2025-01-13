@@ -1,6 +1,6 @@
 ---
 title: Terms & Conditions
-meta_title: ''
+meta_title: meta title
 description: this is meta description
 draft: false
 ---
