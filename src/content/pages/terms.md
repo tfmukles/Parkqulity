@@ -1,5 +1,5 @@
 ---
-title: Terms & Conditions
+title: Terms & Conditions  sdfas
 meta_title: meta title
 description: this is meta description
 draft: false
