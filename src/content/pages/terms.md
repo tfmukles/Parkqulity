@@ -1,3 +1,4 @@
+---
 keytakeways:
       - title: >-
           Building Better Companies Starts with Building Better Leaders:
@@ -13,3 +14,4 @@ keytakeways:
           journey, he teaches that breakthroughs often come when you least
           expect them, and they can lead you to a more purposeful life and
           business.
+---
