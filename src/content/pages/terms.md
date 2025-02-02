@@ -1,17 +1,19 @@
 ---
-keytakeways:
-      - title: >-
-          Building Better Companies Starts with Building Better Leaders:
-          Discover how your personal evolution as a leader impacts the success
-          of your company. Barry shares how working on himself, understanding
-          his weaknesses, and learning from his mistakes allowed him to lead
-          more effectively and create businesses that matter.
-      - title: >-
-          Breakdowns Lead to Breakthroughs: Understand that failure and
-          challenges are not the end—they are the starting point for growth.
-          Barry’s story shows how the moments of deepest despair can be the
-          catalysts for the greatest transformations. By sharing his own
-          journey, he teaches that breakthroughs often come when you least
-          expect them, and they can lead you to a more purposeful life and
-          business.
+items:
+  - enable: true
+    name: Matti Anttila
+    image: /ypo-logo-white.png
+    designation: YPO Southern 7
+    company: 'President '
+    quote: >-
+      “Barry's a RARE FIND: Unicorn founder, Fortune 500 corporate innovation
+      leader, Tier 1 VC and high-vibe energy shaman.”
+  - enable: true
+    name: Jenma Bardi
+    image: /Screenshot 2024-11-13 at 7.48.04 AM.png
+    designation: Volcano Summit
+    company: Founder
+    quote: >-
+      “Barry keynotes our annual summit with 1,800 attendees. He is one of the
+      MOST IMPACTFUL speakers we've ever had!" 
 ---
